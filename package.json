@@ -1,0 +1,24 @@
+{
+  "name": "telegram-conversational-bot",
+  "version": "1.0.0",
+  "description": "Test for ml5 library with telegram api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ml5",
+    "machine-learning",
+    "telegram"
+  ],
+  "author": "Paulo Pigatto",
+  "license": "ISC",
+  "dependencies": {
+    "ml5": "0.0.8",
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.87.0",
+    "tensorflow": "^0.7.0",
+    "tfjs": "^0.6.0",
+    "xmlhttprequest": "^1.8.0"
+  }
+}
